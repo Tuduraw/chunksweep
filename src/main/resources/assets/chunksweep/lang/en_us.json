@@ -1,0 +1,15 @@
+{
+  "block.chunksweep.spawn_activator": "Spawn Activator",
+  "container.chunksweep.spawn_activator": "Spawn Activator",
+  "gui.chunksweep.radius": "Radius: %s chunks",
+  "gui.chunksweep.radius.self_only": "Radius: this chunk only",
+  "gui.chunksweep.targets": "Affected categories",
+  "gui.chunksweep.category.hostile": "Hostile",
+  "gui.chunksweep.category.neutral": "Neutral",
+  "gui.chunksweep.category.friendly": "Friendly",
+  "gui.chunksweep.enabled": "Active",
+  "gui.chunksweep.disabled": "Inactive",
+  "gui.chunksweep.apply": "Apply",
+  "gui.chunksweep.hint": "Restores vanilla natural spawning inside the area.",
+  "itemGroup.chunksweep.main": "Chunk Sweep"
+}

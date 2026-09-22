@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=true":  { "model": "chunksweep:block/spawn_activator" },
+    "powered=false": { "model": "chunksweep:block/spawn_activator_off" }
+  }
+}

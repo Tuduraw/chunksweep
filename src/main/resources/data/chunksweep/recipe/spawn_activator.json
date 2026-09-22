@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["IRI", "RES", "IRI"],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone",
+    "E": "minecraft:ender_eye",
+    "S": "minecraft:soul_lantern"
+  },
+  "result": { "id": "chunksweep:spawn_activator", "count": 1 }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "chunksweep",
+  "version": "${version}",
+  "name": "Chunk Sweep",
+  "description": "チャンクごとの討伐数を数え、一定数を超えたチャンクを『掃討済み』として自然スポーンを無効化します。",
+  "authors": [],
+  "license": "MIT",
+  "icon": "assets/chunksweep/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.chunksweep.ChunkSweep"],
+    "client": ["com.chunksweep.client.ChunkSweepClient"]
+  },
+  "mixins": [
+    "chunksweep.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "fabric-api": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}

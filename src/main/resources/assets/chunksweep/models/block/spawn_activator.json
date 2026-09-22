@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "chunksweep:block/spawn_activator_top",
+    "bottom": "chunksweep:block/spawn_activator_bottom",
+    "side": "chunksweep:block/spawn_activator_side"
+  }
+}

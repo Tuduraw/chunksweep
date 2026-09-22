@@ -1,0 +1,15 @@
+{
+  "block.chunksweep.spawn_activator": "スポーン活性装置",
+  "container.chunksweep.spawn_activator": "スポーン活性装置",
+  "gui.chunksweep.radius": "範囲: %s チャンク",
+  "gui.chunksweep.radius.self_only": "範囲: 設置チャンクのみ",
+  "gui.chunksweep.targets": "対象とするmob",
+  "gui.chunksweep.category.hostile": "敵対",
+  "gui.chunksweep.category.neutral": "中立",
+  "gui.chunksweep.category.friendly": "友好",
+  "gui.chunksweep.enabled": "稼働中",
+  "gui.chunksweep.disabled": "停止中",
+  "gui.chunksweep.apply": "適用",
+  "gui.chunksweep.hint": "範囲内の掃討済みフラグを無効化し、自然スポーンを再び有効にします。",
+  "itemGroup.chunksweep.main": "Chunk Sweep"
+}
